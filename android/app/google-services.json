@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80545404919",
+    "project_id": "inventory-a3f00",
+    "storage_bucket": "inventory-a3f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80545404919:android:8aaa1210241734110dc0f2",
+        "android_client_info": {
+          "package_name": "com.yourcompany.inventorycomsitec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8makSWoZXAt99E0fEl0vooLHAqy7-paw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
